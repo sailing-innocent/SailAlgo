@@ -1,0 +1,10 @@
+/data 
+/output
+__pycache__
+build
+.xmake
+.cache
+.venv
+compile_commands.json
+.pytest_cache
+.env

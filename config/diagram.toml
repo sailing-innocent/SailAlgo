@@ -1,0 +1,25 @@
+name = "diagram"
+version = "0.1.0"
+
+[figures]
+outdir = "data/assets/diagram"
+[figures.dummy]
+name = "Dummy"
+module = "dummy"
+outdir = "temp"
+[figures.gaussian1d]
+name = "Gaussian1D"
+module = "gaussian1d"
+outdir = "math"
+[figures.gaussian2d]
+name = "Gaussian2D"
+module = "gaussian2d"
+outdir = "math"
+[figures.gaussian2d_orth]
+name = "Gaussian2DOrth"
+module = "gaussian2d_orth"
+outdir = "math"
+[figures.gaussian2d_proj]
+name = "Gaussian2DProj"
+module = "gaussian2d_proj"
+outdir = "math"
